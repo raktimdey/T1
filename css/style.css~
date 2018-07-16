@@ -1,0 +1,108 @@
+body{
+
+font-size: 15px;
+font-family: sans-serif;
+padding: 0;
+margin: 0;
+background-color: slategray;
+text-decoration: none;
+
+}
+body a {
+text-decoration: none;
+}
+
+header{
+
+background-color: white;
+padding-top: 30px;
+min-height: 70px;
+border-bottom-color: none;
+
+}
+
+
+header li{
+float: left;
+text-decoration: none;
+text-transform: uppercase;
+border-bottom-style: none;
+display: inline;
+padding: 0 20px 0 20px;
+
+}
+
+header nav {
+float: right;
+margin-top: 10px;
+
+}
+nav a {
+ text-decoration: none;
+}
+
+
+header .branding{
+
+float: left;
+font-weight: bold;
+margin-right: 20px;
+
+}
+header .highlight {
+
+color: yellow;
+font-weight: bold;
+}
+
+ #showcase  { 
+min-height: 400px;
+background-color: whitesmoke;
+text-align: center;
+text-decoration: none;
+margin-top: 50px;
+
+}
+#showcase  h1 {
+font-style: italic;
+font-weight: bold;
+font-family: serif;
+color: magenta;
+font-size: 40px;
+
+}
+
+#showcase p{
+font-size: 30px;
+
+}
+
+#newsletter{
+padding: 20px;
+color: orangered;
+background: yellow;
+}
+#newsletter h1{
+float: left;
+}
+
+#newsletter form{
+float: right;
+margin-top: 15px;
+}
+
+
+#boxes {
+margin-top: 20px;
+}
+
+#boxes .box {
+float: left;
+text-align: center;
+padding: 10px;
+
+}
+#boxes .box img{
+width: 90px;
+}
+
