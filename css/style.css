@@ -99,6 +99,7 @@ margin-top: 20px;
 #boxes .box {
 float: left;
 text-align: center;
+padding: 10px;
 
 }
 #boxes .box img{
